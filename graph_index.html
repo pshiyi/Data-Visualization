@@ -1,0 +1,34 @@
+<html>
+<script>
+var graphWidth=1000;
+var graphHeight=500;
+var currentRic="{{rics[0]}}";
+
+function showgraph(ric, width, height)
+{
+	if(width >= 500) {
+		document.getElementById('graph').src = '/graph/' + ric + '?width=' + width + '&height=' + height;
+		//document.getElementById('riclabel').innerHTML=ric;
+		graphWidth=width;
+		graphHeight=height;
+		currentRic=ric;
+	}
+}
+
+</script>
+<body>
+	<table>
+		<tr><td></td><td><button onclick="showgraph(currentRic,graphWidth*2,graphHeight)"> + </button> <button onclick="showgraph(currentRic,graphWidth/2,graphHeight)"> - </button></td></tr>
+		<tr><td>
+		<select size="33" onchange="if (this.selectedIndex >= 0)showgraph(this.options[this.selectedIndex].value, 1000, 500);">
+			{% for ric in rics %}
+			<option value="{{ ric }}" {%if ric == rics[0] %}selected="true"{% endif %}>{{ ric }}</option>
+			{% endfor %}
+		</select>
+		</textarea>
+		</td><td>
+		<iframe id="graph" height="550" width="1050" src="/graph/{{rics[0]}}"></iframe>
+		</td></tr>
+	</table>
+</body>
+</html>

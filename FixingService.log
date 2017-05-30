@@ -1,0 +1,132 @@
+ * Running on http://0.0.0.0:28083/ (Press CTRL+C to quit)
+172.23.43.99 - - [20/Jan/2017 16:32:50] "GET /graph/CA3MBAFIX=?width=6000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:32:50] "GET /data/CA3MBAFIX= HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:34:17] "GET /graph/CA3MBAFIX= HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:51:29] "GET /graph/CA3MBAFIX= HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:51:29] "GET /graph/CA3MBAFIX= HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:51:29] "GET /graph/CA3MBAFIX=?width=6000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:51:29] "GET /data/CA3MBAFIX= HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:51:31] "GET /graph/CA3MBAFIX=?width=6000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:51:31] "GET /data/CA3MBAFIX= HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:51:37] "GET /graph HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:51:37] "GET /graph/AUDFIX11= HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:51:37] "GET /data/AUDFIX11= HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:51:57] "GET /graph HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:51:57] "GET /graph HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:52:40] "GET /graph/AUDFIX11= HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:52:40] "GET /graph/CA1MBAFIX=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:52:40] "GET /data/CA1MBAFIX= HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:52:41] "GET /graph/AUDFIX11=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:52:41] "GET /data/AUDFIX11= HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:52:42] "GET /graph/CA1MRP=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:52:42] "GET /data/CA1MRP= HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:52:43] "GET /graph/CA2WRP=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:52:43] "GET /data/CA2WRP= HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:52:44] "GET /graph/CAONRP=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:52:44] "GET /data/CAONRP= HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:52:44] "GET /graph/EUR11MFSR=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:52:45] "GET /data/EUR11MFSR= HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:52:45] "GET /graph/CA6MBAFIX=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [20/Jan/2017 16:52:45] "GET /data/CA6MBAFIX= HTTP/1.1" 200 -
+172.23.43.110 - - [23/Jan/2017 09:19:48] "GET /graph HTTP/1.1" 200 -
+172.23.43.110 - - [23/Jan/2017 09:19:51] "GET /graph/AUDFIX11= HTTP/1.1" 200 -
+172.23.43.110 - - [23/Jan/2017 09:19:55] "GET /data/AUDFIX11= HTTP/1.1" 200 -
+172.23.43.110 - - [23/Jan/2017 09:20:26] "GET /favicon.ico HTTP/1.1" 404 -
+172.23.43.99 - - [09/Feb/2017 15:20:19] "GET /graph/CA3MBAFIX=?width=6000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:20] "GET /data/CA3MBAFIX= HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:25] "GET /favicon.ico HTTP/1.1" 404 -
+172.23.43.99 - - [09/Feb/2017 15:20:28] "GET /graph/CA3MBAFIX=?width=6000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:28] "GET /data/CA3MBAFIX= HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:33] "GET / HTTP/1.1" 404 -
+172.23.43.99 - - [09/Feb/2017 15:20:39] "GET /graph HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:39] "GET /graph/AUDFIX11= HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:39] "GET /data/AUDFIX11= HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:47] "GET /graph/CA1MBAFIX=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:47] "GET /data/CA1MBAFIX= HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:48] "GET /graph/CA1YRP=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:48] "GET /data/CA1YRP= HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:48] "GET /graph/CA1MRP=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:49] "GET /data/CA1MRP= HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:49] "GET /graph/CA1YRP=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:49] "GET /data/CA1YRP= HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:50] "GET /graph/CA1MBAFIX=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:50] "GET /data/CA1MBAFIX= HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:50] "GET /graph/AUDFIX11=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:20:50] "GET /data/AUDFIX11= HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:22:14] "GET /data/CA3MBAFIX= HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:25:20] "GET /graph HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:25:20] "GET /graph/AUDFIX11= HTTP/1.1" 200 -
+172.23.43.99 - - [09/Feb/2017 15:25:20] "GET /data/AUDFIX11= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:28] "GET /graph HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:28] "GET /graph/AUDFIX11= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:28] "GET /data/AUDFIX11= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:28] "GET /favicon.ico HTTP/1.1" 404 -
+172.23.43.61 - - [09/Feb/2017 16:20:32] "GET /graph/CA1MBAFIX=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:32] "GET /data/CA1MBAFIX= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:33] "GET /graph/CA1MRP=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:33] "GET /data/CA1MRP= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:34] "GET /graph/CA1WRP=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:34] "GET /data/CA1WRP= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:34] "GET /graph/CA1YBAFIX=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:34] "GET /data/CA1YBAFIX= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:35] "GET /graph/CA1YRP=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:35] "GET /data/CA1YRP= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:35] "GET /graph/CA2MRP=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:36] "GET /data/CA2MRP= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:36] "GET /graph/CA2MBAFIX=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:36] "GET /data/CA2MBAFIX= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:36] "GET /graph/CA2WRP=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:37] "GET /data/CA2WRP= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:37] "GET /graph/CA3MBAFIX=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:37] "GET /data/CA3MBAFIX= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:37] "GET /graph/CA3MRP=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:37] "GET /data/CA3MRP= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:38] "GET /graph/CA6MBAFIX=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:38] "GET /data/CA6MBAFIX= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:38] "GET /graph/CA6MRP=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:39] "GET /data/CA6MRP= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:39] "GET /graph/CA9MRP=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:39] "GET /data/CA9MRP= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:39] "GET /graph/CADFIX11=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:39] "GET /data/CADFIX11= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:40] "GET /graph/CADFIX=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:40] "GET /data/CADFIX= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:40] "GET /graph/CAPRIME=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:40] "GET /data/CAPRIME= HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:41] "GET /graph/CHFFIX11=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [09/Feb/2017 16:20:41] "GET /data/CHFFIX11= HTTP/1.1" 200 -
+172.23.43.61 - - [13/Feb/2017 09:15:36] "GET /graph HTTP/1.1" 200 -
+172.23.43.61 - - [13/Feb/2017 09:15:36] "GET /graph/CHFFIX11=?width=1000&height=500 HTTP/1.1" 200 -
+172.23.43.61 - - [13/Feb/2017 09:15:36] "GET /data/CHFFIX11= HTTP/1.1" 200 -
+172.23.43.61 - - [13/Feb/2017 09:15:36] "GET /favicon.ico HTTP/1.1" 404 -
+172.23.43.61 - - [15/Feb/2017 15:18:52] "GET /graph/CA2MBAFIX=?width=1000&height=500 HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "./FixingService.py", line 50, in <module>
+    app.run(host='0.0.0.0', port=port)
+  File "/home/jamliu/python2.7/lib/python2.7/site-packages/Flask-0.11-py2.7.egg/flask/app.py", line 843, in run
+    run_simple(host, port, self, **options)
+  File "/home/jamliu/python2.7/lib/python2.7/site-packages/werkzeug/serving.py", line 694, in run_simple
+    inner()
+  File "/home/jamliu/python2.7/lib/python2.7/site-packages/werkzeug/serving.py", line 659, in inner
+    srv.serve_forever()
+  File "/home/jamliu/python2.7/lib/python2.7/site-packages/werkzeug/serving.py", line 499, in serve_forever
+    HTTPServer.serve_forever(self)
+  File "/home/jamliu/python2.7/lib/python2.7/SocketServer.py", line 238, in serve_forever
+    self._handle_request_noblock()
+  File "/home/jamliu/python2.7/lib/python2.7/SocketServer.py", line 297, in _handle_request_noblock
+    self.handle_error(request, client_address)
+  File "/home/jamliu/python2.7/lib/python2.7/SocketServer.py", line 295, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/home/jamliu/python2.7/lib/python2.7/SocketServer.py", line 321, in process_request
+    self.finish_request(request, client_address)
+  File "/home/jamliu/python2.7/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/home/jamliu/python2.7/lib/python2.7/SocketServer.py", line 657, in __init__
+    self.finish()
+  File "/home/jamliu/python2.7/lib/python2.7/SocketServer.py", line 716, in finish
+    self.wfile.close()
+  File "/home/jamliu/python2.7/lib/python2.7/socket.py", line 283, in close
+    self.flush()
+  File "/home/jamliu/python2.7/lib/python2.7/socket.py", line 307, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+socket.error: [Errno 32] Broken pipe
